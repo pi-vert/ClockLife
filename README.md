@@ -71,6 +71,10 @@ Support moteur réglable (pour ajuster l’entraxe et le jeu d’engrènement).
 
 ![Paramètres de transmission](table de transmission.webp)
 
+## Roulements
+
+![Roulements](roulements.webp)
+
 # Notes d’assemblage
 
 - Aligner parfaitement roue et vis sans fin (jeu latéral minime, léger jeu fonctionnel au contact).
