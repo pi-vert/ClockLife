@@ -8,8 +8,10 @@
 - Vitesse : 1 tr/min (sens horaire)
 
 - Couple statique à l’horizontale ˜ m·g·r = 2×9,81×0,2 ˜ 3,9 N·m.
+![Description du couple](torque.webp)
 
-Avec pertes (vis sans fin, frottements) et marge x2–3 ? viser 8–12 N·m au niveau de l’axe.
+Avec pertes (vis sans fin, frottements) et marge x2–3 => viser 8–12 N·m au niveau de l’axe.
+
 
 # Liste de composants 
 version robuste et simple à sourcer
@@ -36,6 +38,10 @@ Support moteur réglable (pour ajuster l’entraxe et le jeu d’engrènement).
 
 ![Moteur](doc.webp)
 
+### Caractéristiques
+![Caractéristiques du moteur](caracteristiques.webp)
+
+
 ## Élec/Contrôle
 - Alimentation 12 V 5 A (marge confortable).
 - Contrôleur PWM 12 V (2–10 A) pour régler finement la vitesse à 1 tr/min.
@@ -46,6 +52,24 @@ Support moteur réglable (pour ajuster l’entraxe et le jeu d’engrènement).
 - Carters imprimés/pliés pour couvrir roue + vis sans fin.
 - Contrepoids discret optionnel (à l’arrière du moyeu) si besoin d’équilibrer le bras.
 - Frein anti-retour inutile avec une vis sans fin (auto-bloquante), mais possible via petit ressort/aimant si nécessaire.
+
+# Schéma
+
+## Moteur
+
+![Moteur et support](moteur.webp)
+
+![Dimensions du moteur](moteur2.webp)
+
+![Dimensions du support](bracket.webp)
+
+## Entrainement
+
+![Vis sans fin et engrenage 60 dents](engrenage.webp)
+
+### Paramètres de transmission
+
+![Paramètres de transmission](table de transmission.webp)
 
 # Notes d’assemblage
 
