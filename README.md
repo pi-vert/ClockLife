@@ -30,9 +30,11 @@ version robuste et simple à sourcer
 
 Avec réduction 60:1 par vis sans fin ? sortie axe ˜ 1 tr/min et couple ×60 ? ~18 N·m potentiel (avant pertes), suffisant.
 
-Accouplement moteur ? vis sans fin (rigide ou flexible 6–8/8–10/… mm selon arbres).
+Accouplement moteur -> vis sans fin (rigide ou flexible 6–8/8–10/… mm selon arbres).
 
 Support moteur réglable (pour ajuster l’entraxe et le jeu d’engrènement).
+
+![Moteur](doc.webp)
 
 ## Élec/Contrôle
 - Alimentation 12 V 5 A (marge confortable).
